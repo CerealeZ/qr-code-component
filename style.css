@@ -2,7 +2,6 @@
 * {
   padding: 0;
   margin: 0;
-
   font-family: "Outfit", sans-serif;
 }
 
@@ -26,6 +25,7 @@ h2 {
   padding: 20px;
   height: 100vh;
   --borderRadius: 15px;
+  box-sizing: border-box;
 }
 
 .qr-container {
