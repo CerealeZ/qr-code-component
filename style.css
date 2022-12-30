@@ -41,6 +41,8 @@ h2 {
 }
 
 .qr-container__img {
+  height: 100%;
+  width: 100%;
   border-radius: var(--borderRadius);
 }
 
